@@ -8,4 +8,9 @@ The main objective of the analysis is to predict the Total death rate,total case
 
 Data Source
 The Covid-19 dataset is a well-known dataset that contains information about 100+ countries who were affected by corona virus during its peak time. The dataset is widely used in the data science community as a benchmark dataset for classification modeling and predictive analysis.This dataset for this study was obtained from Kaagle and can be downloaded from https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+
 Dashboard
+![Dashboard 2](https://github.com/asmablaisykk/Covid-19-portfolio-project/assets/154601662/71c8eeca-8c0e-482f-8fba-43f1faff9ba9)
+
+Conclusion
+My analysis of the Covid-19 dataset revealed that Age,medical condition and selfcare  were significant factors in determining the survival of covid patients. These findings provide valuable insights into the factors that influenced survival rates,death rates during the disaster. The cleaned and analyzed dataset can be used for further analysis and modeling to gain a deeper understanding of the Covid-19 disaster.
