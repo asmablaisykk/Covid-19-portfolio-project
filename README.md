@@ -17,6 +17,7 @@ The Covid-19 dataset is a well-known dataset that contains information about 100
 
 ![Dashboard 1](https://github.com/asmablaisykk/Covid-19-portfolio-project/assets/154601662/7a608e53-5375-4ba7-88e6-be6d8643aee7)
 
+
 ![Dashboard 2](https://github.com/asmablaisykk/Covid-19-portfolio-project/assets/154601662/71c8eeca-8c0e-482f-8fba-43f1faff9ba9)
 
 ###### Conclusion
