@@ -1,4 +1,4 @@
-###Covid-19 - Visualization of data Analysis###
+######Covid-19 - Visualization of data Analysis
 This is a repository for Covid-19 dataset analysis with machine learning and Power BI dashboard and other related files to provide comprehensive understanding of the dataset. And also visualize the survival analysis
 ![image](https://github.com/asmablaisykk/Covid-19-portfolio-project/assets/154601662/d4a3299a-5548-4a5b-939a-dcfcae5deac3)
 Introduction
